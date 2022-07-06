@@ -3,6 +3,7 @@ public class diff {
             int a=2;
             int b=3;
             int c = a+b;
+            //no change
             System.out.println(c);
         }
 }
